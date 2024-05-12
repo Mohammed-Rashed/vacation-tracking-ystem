@@ -8,10 +8,14 @@ The Vacation Sysytem Idea in textbook named  `The Object Oriented Analysis And D
 ### USE CASES
 > discussing some cases in project
 1. Manage Time
-   Create new Request
-   Withdraw pending request
-   Cancel Approved Request
-   Edit pending request
+   1. Create new Request
+   2. Withdraw pending request
+   3. Cancel Approved Request
+   4. Edit pending request
+      
+      
+      
+      
 
 ### Database Design
    <img src="images/manage-time-case.png">
